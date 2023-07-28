@@ -1,0 +1,5 @@
+trading-env/
+trading.egg-info/
+dist/
+build/
+data/
